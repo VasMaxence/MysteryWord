@@ -1,0 +1,3 @@
+/Users/maxencev/Documents/mysteryWord/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/maxencev/Documents/mysteryWord/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/maxencev/Documents/mysteryWord/cmake-build-debug/CMakeFiles/mysteryWord.dir
